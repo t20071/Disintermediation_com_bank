@@ -1,0 +1,10 @@
+BS.NB.M(t+1,:) = BS.NB.M(t,:);
+BS.NB.L(t+1,:) = BS.NB.L(t,:);
+BS.BA.R(t+1,:) = BS.BA.R(t,:);
+BS.BA.L(t+1,:) = BS.BA.L(t,:);
+BS.BA.D(t+1,:) = BS.BA.D(t,:);
+BS.BA.B(t+1,:) = BS.BA.B(t,:);
+BS.CB.R(t+1)   = BS.CB.R(t);
+BS.CB.C(t+1)   = BS.CB.C(t);
+BS.CB.DC(t+1)  = BS.CB.DC(t);
+BS.CB.B(t+1)   = BS.CB.B(t);

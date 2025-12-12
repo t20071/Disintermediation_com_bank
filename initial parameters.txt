@@ -1,0 +1,32 @@
+1. 
+
+Total money stock (M3) — nominal.
+i) Currency with the Public == 36,98,666 ₹ crore
+ii) Demand Deposits with Banks
+iii) Time Deposits with Banks 
+iv) `Other ' Deposits with Reserve Bank) 
+
+======  ₹288.952 trillion
+
+
+2. 
+Currency in circulation (cash) (absolute and as % of M2). ======  36,98,666 ₹ crore (₹ 36.98666 trillion)
+
+
+3. 
+Bank deposit rate (a banking-system aggregate rate for sight & term deposits — or you can use a weighted average).
+
+Sight deposits (savings + current accounts) ≈ 25–35% ≈ Average interest rate: ~ 3.0% (savings accounts; current accounts earn 0%)
+
+Term deposits (fixed + recurring) ≈ 65–75% ≈  Weighted Average Domestic Term Deposit Rate (WADTDR): ~6.8% (as per RBI report)
+
+=====  (0.3*3) + (0.68*7) =====  5.66 %
+
+
+
+4. 
+Policy rate (RBI repo/policy rate at the same frequency) ===== 5.50%.
+
+
+5. 
+Nominal GDP (quarterly) — used to compute velocity = GDP / M2. ===== ₹352.8 trillion  / ₹288.952 trillion == 1.221
