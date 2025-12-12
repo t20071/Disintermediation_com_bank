@@ -1,4 +1,4 @@
-# MODEL_Counterfactual_deposit.m - Documentation
+# MODEL_Counterfactual (Deposit/Cash) - Documentation
 
 ## Overview
 This MATLAB script simulates a complex economic model focused on **counterfactual scenarios for a deposit/cash-like Central Bank Digital Currency (CBDC)**. It models interactions between non-bank agents, commercial banks, and a central bank in a dynamic monetary system with deposits, cash, and CBDC.
