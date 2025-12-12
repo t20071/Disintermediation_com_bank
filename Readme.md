@@ -1,12 +1,12 @@
 # MODEL_Counterfactual_deposit.m - Documentation
 
 ## Overview
-This MATLAB script simulates a complex economic model focused on **counterfactual scenarios for a deposit-like Central Bank Digital Currency (CBDC)**. It models interactions between non-bank agents, commercial banks, and a central bank in a dynamic monetary system with deposits, cash, and CBDC.
+This MATLAB script simulates a complex economic model focused on **counterfactual scenarios for a deposit/cash-like Central Bank Digital Currency (CBDC)**. It models interactions between non-bank agents, commercial banks, and a central bank in a dynamic monetary system with deposits, cash, and CBDC.
 
 ---
 
 ## Purpose
-The model simulates how monetary systems evolve when CBDC is introduced as a deposit-like instrument. It:
+The model simulates how monetary systems evolve when CBDC is introduced as a deposit/cash-like instrument. It:
 - Tracks agent behavior in choosing between deposits, cash, and CBDC
 - Simulates bank deposit rate competition through a "trading system" (TS) learning mechanism
 - Analyzes counterfactual scenarios at specified break points with different policy parameters
@@ -293,7 +293,7 @@ Where:
 
 ## Notes on Version
 
-**Current Configuration**: Deposit-like CBDC (Run_5)
+**Current Configuration**: Deposit/cash-like CBDC (Run_5)
 - Single stream of counterfactual windows
 - Annex version with superimposed dual streams available from authors
 - Quarterly scaling enabled (`qu=1`)
